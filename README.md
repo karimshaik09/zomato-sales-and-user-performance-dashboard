@@ -175,7 +175,7 @@ This dashboard includes:
 To include screenshots, use:
 
 ```
-![Dashboard Screenshot](https://github.com/karimshaik09/zomato-sales-and-user-analytics-dashboard-powerbi-project/blob/master/Image/Screenshot%202025-10-18%20215827.png?raw=true)
+![Dashboard Screenshot](https://github.com/karimshaik09/zomato-sales-and-user-analytics-dashboard-powerbi-project/blob/master/Screenshot%202025-12-03%20191957.png?raw=true)
 ```
 
 ---
