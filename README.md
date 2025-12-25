@@ -1,5 +1,5 @@
 
-# Zomato Sales & User Analytics Dashboard - Power BI Project
+# Zomato Sales & User Performance Dashboard - Power BI Project
 ## Brief One-Line Summary
 
 A Power BI dashboard analyzing Zomato’s sales, user behavior, food trends, and city-level performance for data-driven decision-making.
